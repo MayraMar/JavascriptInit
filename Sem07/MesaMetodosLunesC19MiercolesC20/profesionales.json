@@ -1,0 +1,164 @@
+[
+  {
+    "identificador": 5,
+    "estaHabilitado": true,
+    "honorarioConsulta": 2036.507,
+    "edad": 27,
+    "nombre": "Tamika Fuentes",
+    "especialidad": "Cardiologia",
+    "cantidadConsultas": 0,
+    "puntuacion": 0
+  },
+  {
+    "identificador": 12,
+    "estaHabilitado": true,
+    "honorarioConsulta": 2135.2430000000004,
+    "edad": 25,
+    "nombre": "Mayra Tran",
+    "especialidad": "Oftamologia",
+    "cantidadConsultas": 2,
+    "puntuacion": 0
+  },
+  {
+    "identificador": 8,
+    "estaHabilitado": true,
+    "honorarioConsulta": 2144.9120000000003,
+    "edad": 40,
+    "nombre": "Guerra Bright",
+    "especialidad": "Neumonologia",
+    "cantidadConsultas": 0,
+    "puntuacion": 0
+  },
+  {
+    "identificador": 0,
+    "estaHabilitado": true,
+    "honorarioConsulta": 2208.4480000000003,
+    "edad": 29,
+    "nombre": "Huber Wilkins",
+    "especialidad": "Neumonologia",
+    "cantidadConsultas": 2,
+    "puntuacion": 0
+  },
+  {
+    "identificador": 2,
+    "estaHabilitado": true,
+    "honorarioConsulta": 2428.987,
+    "edad": 36,
+    "nombre": "Pena Landry",
+    "especialidad": "Dermatologia",
+    "cantidadConsultas": 0,
+    "puntuacion": 0
+  },
+  {
+    "identificador": 1,
+    "estaHabilitado": true,
+    "honorarioConsulta": 2558.116,
+    "edad": 21,
+    "nombre": "Goldie Haley",
+    "especialidad": "Cardiologia",
+    "cantidadConsultas": 4,
+    "puntuacion": 0
+  },
+  {
+    "identificador": 6,
+    "estaHabilitado": true,
+    "honorarioConsulta": 2825.8340000000003,
+    "edad": 34,
+    "nombre": "Russo Baldwin",
+    "especialidad": "Dermatologia",
+    "cantidadConsultas": 0,
+    "puntuacion": 0
+  },
+  {
+    "identificador": 7,
+    "estaHabilitado": true,
+    "honorarioConsulta": 2861.9360000000006,
+    "edad": 36,
+    "nombre": "Dodson Shaffer",
+    "especialidad": "Cardiologia",
+    "cantidadConsultas": 10,
+    "puntuacion": 0
+  },
+  {
+    "identificador": 4,
+    "estaHabilitado": true,
+    "honorarioConsulta": 2941.4990000000003,
+    "edad": 31,
+    "nombre": "Haynes Fuentes",
+    "especialidad": "Cardiologia",
+    "cantidadConsultas": 4,
+    "puntuacion": 0
+  },
+  {
+    "identificador": 10,
+    "estaHabilitado": true,
+    "honorarioConsulta": 3020.3030000000003,
+    "edad": 27,
+    "nombre": "Stafford Watts",
+    "especialidad": "Cardiologia",
+    "cantidadConsultas": 3,
+    "puntuacion": 0
+  },
+  {
+    "identificador": 11,
+    "estaHabilitado": true,
+    "honorarioConsulta": 3089.878,
+    "edad": 39,
+    "nombre": "Joni Avery",
+    "especialidad": "Neumonologia",
+    "cantidadConsultas": 5,
+    "puntuacion": 0
+  },
+  {
+    "identificador": 3,
+    "estaHabilitado": true,
+    "honorarioConsulta": 3593.3810000000003,
+    "edad": 20,
+    "nombre": "Leanne Burch",
+    "especialidad": "Neumonologia",
+    "cantidadConsultas": 2,
+    "puntuacion": 0
+  },
+  {
+    "identificador": 9,
+    "estaHabilitado": true,
+    "honorarioConsulta": 4287.921,
+    "edad": 28,
+    "nombre": "Dina Navarro",
+    "especialidad": "Cardiologia",
+    "cantidadConsultas": 15,
+    "puntuacion": 0
+  },
+  {
+    "identificador": 13,
+    "estaHabilitado": true,
+    "honorarioConsulta": 4323.03795,
+    "edad": 23,
+    "nombre": "Ward Dale",
+    "especialidad": "Cardiologia",
+    "cantidadConsultas": 1,
+    "puntuacion": 0,
+    "puntaje": 3
+  },
+  {
+    "identificador": 250,
+    "estaHabilitado": true,
+    "honorarioConsulta": 8000,
+    "edad": 52,
+    "nombre": "Linus Torvalds",
+    "especialidad": "Junior Developer",
+    "cantidadConsultas": 48,
+    "puntuacion": 50
+  },
+  {
+    "identificador": 15,
+    "estaHabilitado": true,
+    "honorarioConsulta": 11000,
+    "edad": 28,
+    "nombre": "Will Smith",
+    "especialidad": "Arquitecto",
+    "cantidadConsultas": 48,
+    "puntuacion": 50,
+    "puntaje": 4
+  }
+]

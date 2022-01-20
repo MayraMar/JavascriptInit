@@ -1,0 +1,2 @@
+token : ODk0OTI3NDI5NTMxOTkyMTI0.YVxIHg.o9YSjnxQdaXa6dWb38TRhOE7_fk
+link : https://discord.com/api/oauth2/authorize?client_id=894927429531992124&permissions=8&scope=bot
